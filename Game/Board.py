@@ -1,6 +1,6 @@
-#---------------------------------
-# CECS 451 : Devin Suy : 017001983
-#---------------------------------
+#----------
+# Devin Suy
+#----------
 
 from Game.BoardCell import BoardCell
 from Game.Player import Player
