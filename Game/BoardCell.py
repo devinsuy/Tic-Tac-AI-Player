@@ -1,6 +1,6 @@
-#---------------------------------
-# CECS 451 : Devin Suy : 017001983
-#---------------------------------
+#----------
+# Devin Suy
+#----------
 
 class BoardCell:
     def __init__(self, cell_num, status=-1, symbol=" "):
