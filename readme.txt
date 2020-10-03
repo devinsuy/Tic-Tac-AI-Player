@@ -2,14 +2,6 @@
 Devin Suy
 ---------
 
-Resources:
-	https://wiki.python.org/moin/UsingPickle
-	https://docs.python.org/3/library/pathlib.html
-	https://en.wikipedia.org/wiki/Game_complexity#:~:text=For%20tic%2Dtac%2Dtoe%2C,have%20a%20row%20of%20three.
-	https://en.wikipedia.org/wiki/Tic-tac-toe
-	https://en.wikipedia.org/wiki/Minimax#:~:text=chances%20of%20winning).-,Minimax%20algorithm%20with%20alternate%20moves,or%20state%20of%20the%20game.
-
-
 Notes:
 	- GameState objects contain the corresponding Board and Player objects
 	  at any given point in the game as well a list of all successor GameStates
